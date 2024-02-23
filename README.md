@@ -53,6 +53,7 @@ plt.plot(x_train,lr.predict(x_train),color='red')
 ![Screenshot 2024-02-23 102313](https://github.com/yogaraj2/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/153482637/4407c1e5-a5b5-48af-a7aa-96dcb2a3aaf9)
 ![Screenshot 2024-02-23 102330](https://github.com/yogaraj2/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/153482637/89b72640-34aa-4abc-9ed6-41eb0e9d3e88)
 ![Screenshot 2024-02-23 102551](https://github.com/yogaraj2/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/153482637/e94a3c1c-3024-4103-8146-add0a0e70c0b)
+![Screenshot 2024-02-23 102558](https://github.com/yogaraj2/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/153482637/59f9d898-f12c-4e78-a1fa-b8341e16ac59)
 ![Screenshot 2024-02-23 103600](https://github.com/yogaraj2/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/153482637/ee4b5567-a1b5-400c-b3ee-68839f8a75fa)
 
 
